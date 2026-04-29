@@ -1,6 +1,6 @@
 # Yelp Restaurant Rating Predictor
 **Project Type:** Machine Learning & Natural Language Processing (NLP)  
-**Academic Context:** M.S. in Analytics (Predictive Modeling Coursework)
+**Academic Context:** MBA in Market Research Insights & Analytics (Predictive Modeling Coursework)
 
 ## 📌 Executive Summary
 This project addresses the challenge of quantifying subjective user experiences. By processing the Yelp Open Dataset, I developed a machine learning pipeline that predicts restaurant star ratings by integrating business metadata with NLP-derived sentiment scores from customer reviews.
