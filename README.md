@@ -22,7 +22,6 @@ The pipeline follows a standard ETL (Extract, Transform, Load) and Modeling patt
 
 ## 🚀 Key Technical Challenges
 * **Unstructured Data at Scale:** Managed multi-gigabyte JSON files by implementing data chunking and filtering to isolate relevant business categories.
-* **Sentiment Nuance:** Improved model accuracy by weighting recent reviews more heavily than older ones, accounting for "service drift."
 
 ## 📈 Impact & Results
 * Achieved a predictive accuracy within a 0.673-star margin.
