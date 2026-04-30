@@ -25,4 +25,3 @@ The pipeline follows a standard ETL (Extract, Transform, Load) and Modeling patt
 
 ## 📈 Impact & Results
 * Achieved a predictive accuracy within a 0.673-star margin.
-* Identified "Review Sentiment" as the primary driver of rating variance, outweighing physical business attributes.
