@@ -4,6 +4,7 @@
 
 ## 📌 Executive Summary
 This project addresses the challenge of quantifying subjective user experiences. By processing the Yelp Open Dataset, I developed a machine learning pipeline that predicts restaurant star ratings by integrating business metadata with NLP-derived sentiment scores from customer reviews.
+
 Metric: Mean Absolute Error (MAE) of 0.6730 stars.
 
 Technical Stack: Python, Scikit-Learn (Linear Regression), TF-IDF Vectorization.
