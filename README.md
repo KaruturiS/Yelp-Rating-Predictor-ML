@@ -15,8 +15,8 @@ Scale: Successfully processed a 50,000-row subset of the 5GB+ Yelp Open Dataset 
 The pipeline follows a standard ETL (Extract, Transform, Load) and Modeling pattern:
 1. **Data Ingestion:** Processed large-scale JSON objects using Python (Pandas/NumPy).
 2. **Text Processing:** Utilized NLTK for tokenization, stop-word removal, and sentiment polarity scoring.
-3. **Feature Engineering:** Combined numerical business attributes (e.g., price range, check-ins) with text-based sentiment features.
-4. **Modeling:** Trained and tuned a Random Forest Regressor to handle non-linear relationships in the data.
+3. **Feature Engineering:** Text-based TF-IDF sentiment features.
+4. **Modeling:** Trained and tuned a Linear Regressor to handle relationships in the data.
 
 
 
